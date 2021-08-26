@@ -6,4 +6,4 @@ I will teach you How to Make a Responsive Agency Website Landing Page Using HTML
 
 <b>Code by Abdul Hadi</b>
 
-![Watch Now](./readmebanner.png)
+![Watch Now](./readmebanner.jpg)
